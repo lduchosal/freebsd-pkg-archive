@@ -13,6 +13,5 @@ package version), never committed to git. Verify the SHA-256 before installing.
 ## Licensing
 
 Packages are redistributed unmodified, as built by the FreeBSD ports
-collection. Each package keeps its upstream license (Kibana 8.11.3:
-Elastic License 2.0 — see `/usr/local/share/licenses/` once installed and
-https://www.elastic.co/licensing/elastic-license).
+collection, under the license declared by their port (`kibana8-8.11.3_1`:
+`APACHE20`, per the package manifest).
